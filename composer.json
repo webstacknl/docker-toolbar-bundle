@@ -1,0 +1,19 @@
+{
+  "name": "webstack/docker-toolbar-bundle",
+  "description": "Docker toolbar bundle",
+  "type": "symfony-bundle",
+  "require": {
+    "php": "^8.0"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^3",
+    "symfony/http-foundation": "^6.1",
+    "symfony/http-kernel": "^6.1",
+    "symfony/dependency-injection": "^6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Webstack\\DockerToolbarBundle\\": "src/"
+    }
+  }
+}
