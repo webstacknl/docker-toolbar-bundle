@@ -2,6 +2,7 @@
   "name": "webstack/docker-toolbar-bundle",
   "description": "Docker toolbar bundle",
   "type": "symfony-bundle",
+  "license": "MIT",
   "require": {
     "php": "^8.0"
   },
