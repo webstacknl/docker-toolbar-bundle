@@ -29,4 +29,4 @@ Contributing
 Suggestions for improving and extending functionality of this bundle are welcome.
 
 -----
-###### _Note: I am not a Go developer, so sadly I can't help out with writing a implementation within Symfony CLI itself._
+###### _Note: I am not a Go developer, so sadly I can't help out with writing an implementation within Symfony CLI itself._
